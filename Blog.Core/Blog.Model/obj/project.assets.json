@@ -536,12 +536,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.0.0": {
-      "sha512": "rJJD/NPatfDry7SuNM7YvjqbJD9u1fs8h0hGI0nft0lnCFfEtPuX5N29Akja0ATbjQxzWn4P0s5gUSeOxEqROQ==",
+      "sha512": "odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -687,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\baoshen-1219\\.nuget\\packages\\": {},
+    "C:\\Users\\ShiXB\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\项目代码\\Blog开源项目\\JWT\\Blog.Core\\Blog.Model\\Blog.Model.csproj",
+      "projectUniqueName": "D:\\Test\\github\\Blog.Core.git\\trunk\\Blog.Core\\Blog.Model\\Blog.Model.csproj",
       "projectName": "Blog.Model",
-      "projectPath": "F:\\项目代码\\Blog开源项目\\JWT\\Blog.Core\\Blog.Model\\Blog.Model.csproj",
-      "packagesPath": "C:\\Users\\baoshen-1219\\.nuget\\packages\\",
-      "outputPath": "F:\\项目代码\\Blog开源项目\\JWT\\Blog.Core\\Blog.Model\\obj\\",
+      "projectPath": "D:\\Test\\github\\Blog.Core.git\\trunk\\Blog.Core\\Blog.Model\\Blog.Model.csproj",
+      "packagesPath": "C:\\Users\\ShiXB\\.nuget\\packages\\",
+      "outputPath": "D:\\Test\\github\\Blog.Core.git\\trunk\\Blog.Core\\Blog.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\baoshen-1219\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ShiXB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -711,7 +710,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

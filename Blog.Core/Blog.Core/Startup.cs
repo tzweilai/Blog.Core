@@ -27,7 +27,7 @@ namespace Blog.Core
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1.0", new Swashbuckle.AspNetCore.Swagger.Info
+                c.SwaggerDoc("v1", new Swashbuckle.AspNetCore.Swagger.Info
                 {
                     Title = "My Web API",
                     Description="API说明文档",

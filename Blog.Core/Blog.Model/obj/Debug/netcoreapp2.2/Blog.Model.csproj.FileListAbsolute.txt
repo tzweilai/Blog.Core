@@ -7,3 +7,11 @@ F:\项目代码\Blog开源项目\JWT\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.
 F:\项目代码\Blog开源项目\JWT\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.dll
 F:\项目代码\Blog开源项目\JWT\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.pdb
 F:\项目代码\Blog开源项目\JWT\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.csprojAssemblyReference.cache
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\bin\Debug\netcoreapp2.2\Blog.Model.deps.json
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\bin\Debug\netcoreapp2.2\Blog.Model.dll
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\bin\Debug\netcoreapp2.2\Blog.Model.pdb
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.csproj.CoreCompileInputs.cache
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.AssemblyInfoInputs.cache
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.AssemblyInfo.cs
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.dll
+D:\Test\github\Blog.Core.git\trunk\Blog.Core\Blog.Model\obj\Debug\netcoreapp2.2\Blog.Model.pdb

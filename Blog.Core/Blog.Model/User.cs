@@ -10,6 +10,10 @@ namespace Blog.Model
     public class User
     {
         /// <summary>
+        /// 用户编号
+        /// </summary>
+        public int Id { get; set; }
+        /// <summary>
         /// 用户名
         /// </summary>
         public string Name { get; set; }
